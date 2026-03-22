@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "1984",
+  "base_artist": "andymori",
+  "createdAt": "2026-03-22T15:29:50.320135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1984",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_1984_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1984",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_1984_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1984 / Dodo",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/03_1984___Dodo_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1984/Dodo",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/04_1984_Dodo_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lost in Music (special 1984 Nile Rodgers remix)",
+      "artist": "Sister Sledge",
+      "has_synced": true,
+      "path": "select/05_Lost_in_Music_(special_1984_Nile_Rodgers_remix)_Sister_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lost In Music (Special 1984 Nile Rogers Remix)",
+      "artist": "Sister Sladge",
+      "has_synced": true,
+      "path": "select/06_Lost_In_Music_(Special_1984_Nile_Rogers_Remix)_Sister_Sladge.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Abernant 1984/85",
+      "artist": "The Mekons",
+      "has_synced": true,
+      "path": "select/07_Abernant_1984_85_The_Mekons.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Abernant 1984\u000085",
+      "artist": "The Mekons",
+      "has_synced": true,
+      "path": "select/08_Abernant_1984\u000085_The_Mekons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Connemara, Let's Go (The David 'Kid' Jensen Show) [July 1984] [Live]",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/09_Connemara,_Let's_Go_(The_David_'Kid'_Jensen_Show)_[July_1984]_[Live]_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Navigator (The John Peel Show) [December 1984] [Live]",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/10_Navigator_(The_John_Peel_Show)_[December_1984]_[Live]_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Medusa (Joey Belladonna Demo / 12/9/1984 Rhythm Track Tape Version)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/11_Medusa_(Joey_Belladonna_Demo___12_9_1984_Rhythm_Track_Tape_Version)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1984",
+      "artist": "Glaive",
+      "has_synced": true,
+      "path": "select/12_1984_Glaive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break Dance Party (Original Version 1984)",
+      "artist": "Break Machine",
+      "has_synced": false,
+      "path": "select/13_Break_Dance_Party_(Original_Version_1984)_Break_Machine.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "City of Angels (Live At Hammersmith Odeon/1984)",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/14_City_of_Angels_(Live_At_Hammersmith_Odeon_1984)_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "City Of Angels (Live At Hammersmith Odeon\u00001984)",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/15_City_Of_Angels_(Live_At_Hammersmith_Odeon\u00001984)_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do You Want Crying? (1984)",
+      "artist": "Katrina and the Waves",
+      "has_synced": false,
+      "path": "select/16_Do_You_Want_Crying__(1984)_Katrina_and_the_Waves.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Know How (Live At Hammersmith Odeon/1984)",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/17_Know_How_(Live_At_Hammersmith_Odeon_1984)_Nik_Kershaw.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1984",
+      "artist": "andymori",
+      "has_synced": false,
+      "path": "select/pl_01_1984_andymori.txt"
+    }
+  ]
+}
